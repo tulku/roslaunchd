@@ -1,0 +1,7 @@
+<launch>
+
+  <include file="$(find roslaunchd_navigation)/launch/navigation.launch"/>
+  <include file="$(find roslaunchd_localization)/launch/localization.launch"/>
+  <include file="$(find roslaunchd_mapping)/launch/mapping.launch"/>
+
+</launch>

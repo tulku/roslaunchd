@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="roslaunchd_navigation" type="navigation" name="navigation"/>
+
+</launch>

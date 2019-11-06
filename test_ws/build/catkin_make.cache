@@ -1,0 +1,2 @@
+bringup:localization:mapping:navigation
+-DCATKIN_DEVEL_PREFIX=/home/tulku/roslaunchd/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tulku/roslaunchd/test_ws/install -G Unix Makefiles

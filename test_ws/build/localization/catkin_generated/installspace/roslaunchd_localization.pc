@@ -1,0 +1,8 @@
+prefix=/home/tulku/roslaunchd/test_ws/install
+
+Name: roslaunchd_localization
+Description: Description of roslaunchd_localization
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tulku/roslaunchd/test_ws/install/lib 
+Requires: 

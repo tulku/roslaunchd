@@ -1,0 +1,8 @@
+prefix=/home/tulku/roslaunchd/test_ws/devel
+
+Name: roslaunchd_mapping
+Description: Description of roslaunchd_mapping
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tulku/roslaunchd/test_ws/devel/lib 
+Requires: 

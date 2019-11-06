@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="roslaunchd_mapping" type="mapping" name="mapping"/>
+
+</launch>

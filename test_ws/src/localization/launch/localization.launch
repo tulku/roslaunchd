@@ -1,0 +1,9 @@
+<launch>
+  <arg name="param1" default="param1"/>
+
+  <node pkg="roslaunchd_localization" type="localization" name="localization">
+    <param name="param1" value="$(arg param1)"/>
+    <remap from="roslaunch" to="systemd"/>
+  </node>
+
+</launch>

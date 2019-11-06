@@ -1,0 +1,8 @@
+prefix=/home/tulku/roslaunchd/test_ws/devel
+
+Name: roslaunchd_bringup
+Description: Description of roslaunchd_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tulku/roslaunchd/test_ws/devel/lib 
+Requires: 
